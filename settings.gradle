@@ -1,0 +1,2 @@
+rootProject.name = "ZeroTo98"
+include ':app'
