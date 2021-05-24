@@ -13,3 +13,5 @@
 .externalNativeBuild
 .cxx
 local.properties
+redSiren.cpp
+particleFirmware/workbench/redSiren/target
