@@ -35,7 +35,7 @@ Comcast Corporation, Philadelphia
 
 3. Code deployed to phone BUT STOP THE APP.
 4. Disconnect all real devices.
-5. IDE open, Project panel collapsed. IDE sized to show Emulator on right side.
+5. IDE open, Project panel collapsed. IDE sized to show Vizor-enabled device on the right side (emulator is too slow)
 6. Turn off computer notifications
 7. I recommend presenting this README on your IDE in Presentation Mode.
 8. Power-up siren and put it on desk.
