@@ -247,7 +247,7 @@ Run the app to demonstrate!
 
 >***How do we proceed with feature development*** when we don’t know if we are breaking the app and its many wonderful features?
 
->We can ***protect the entire app with an end-to-end Live Espresso Test***.
+>We can ***protect the entire app with a Live end-to-end Espresso Test***. The test is 'Live' becuse we run it using real accounts and real hardware.  Settings up Mocks requires knowledge we just don't have as new developers on this team.  The test is 'End to End' because we are not mocking any of our apps components.
 
 >This can be written without ANY knowledge of the app, but it ***requires some tricks*** as we'll soon learn.
 
