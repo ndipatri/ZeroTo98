@@ -34,7 +34,7 @@ Comcast Corporation, Philadelphia
 >Check out [Step 1 branch](https://github.com/ndipatri/ZeroTo98/tree/step1_workingNoTests) if skipping building the init app.
 
 3. Code deployed to phone BUT STOP THE APP.
-4. Disconnect all real devices.
+4. Disconnect all real devices except test device.
 5. IDE open, Project panel collapsed. IDE sized to show Vizor-enabled device on the right side (emulator is too slow)
 6. Turn off computer notifications
 7. I recommend presenting this README on your IDE in Presentation Mode.
