@@ -28,27 +28,28 @@ Comcast Corporation, Philadelphia
 
 ### If you are presenting this to others, here's your checklist:
 
-1. Restart IDE! (so it doesn't OOM during talk)
-2. Code checked out 
+1. Power-up siren and put it on desk (the app will crash if siren isn't on)
+2. Use 'particle' CLI tool (particle token list) to make sure particleToken value in ParticleAPI.kt is still valid.
+3. Restart IDE! (so it doesn't OOM during talk)
+4. Code checked out 
 
 >Check out [Step 1 branch](https://github.com/ndipatri/ZeroTo98/tree/step1_workingNoTests) if skipping building the init app.
 
-3. Code deployed to phone BUT STOP THE APP.
-4. Disconnect all real devices except test device.
-5. IDE open, Project panel collapsed. IDE sized to show Vizor-enabled device on the right side (emulator is too slow)
-6. Turn off computer notifications
-7. I recommend presenting this README on your IDE in Presentation Mode.
-8. Power-up siren and put it on desk.
-9. Put IDE in Presentation Mode
-10. Read this:
+5. Code deployed to phone BUT STOP THE APP.
+6. Disconnect all real devices except test device.
+7. IDE open, Project panel collapsed. IDE sized to show Vizor-enabled device on the right side (emulator is too slow)
+8. Turn off computer notifications
+9. I recommend presenting this README on your IDE in Presentation Mode.\
+10. Put IDE in Presentation Mode
+11. Read this:
 
 >The prototype-to-production pipeline for mobile applications doesn’t always have the luxury of test-driven development. As a result, some production code has very ***low unit test coverage***.
 
 >Today we’re going to learn how to use Espresso in new ways to ***quickly stand up live end-to end integration tests***.  These tests give us confidence so that we can safely move ahead with feature changes while we slowly ***build up our unit test coverage from 0 to 98 percent***, a process which can take weeks or months! 
 
-11. ***Take IDE OUT of Presentation mode and show Project***
+12. ***Take IDE OUT of Presentation mode and show Project***
 
-12. Read this:
+13. Read this:
 
 >I was trying to think of a fun application that we could use to demonstrate the concept of going from 0 to 98 as quickly as possible. ***Since this kinda sounds like speeding to me***, I thought that using a big red police siren might be appropriate. 
 
